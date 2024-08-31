@@ -1,0 +1,20 @@
+.main-content-toad {
+    max-width: 1000px;
+    margin: 0 auto;
+}
+
+img {
+    max-width: 800px !important;
+    height: auto;
+}
+
+code {
+    background-color: antiquewhite;
+    color: #4d4d4d;
+}
+
+figcaption {
+    color: #4d4d4d;
+    text-align: center;
+    font-style: italic;
+}

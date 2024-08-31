@@ -1,0 +1,17 @@
+{
+  "name": "site_toad",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon start.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.7.5",
+    "cheerio": "^1.0.0",
+    "nodemon": "^3.1.4"
+  }
+}
